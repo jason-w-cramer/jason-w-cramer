@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jason Cramer
+I'm a Computer Engineer with a focus on embedded systems and firmware development. I enjoy working close to the hardware and building efficient and reliable systems.
 
-<!--
-**jason-w-cramer/jason-w-cramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Interests
+- Embedded systems & low-level programming  
+- Firmware development  
+- Digital signal processing (DSP), especially audio/music applications  
+- Motor control systems  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: C, C++, Python, MATLAB, Verilog 
+- Tools: VSCode, Vivado, Vitis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Project Name]** – [1 sentence describing what it does + tech used]  
+- **[Project Name]** – [1 sentence describing what it does + tech used]  
+- **[Project Name]** – [1 sentence describing what it does + tech used]  
+
+## 🌱 Currently
+- Seeking opportunities in embedded systems and firmware engineering  
+- Continuing to build projects in DSP and control systems  
+
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/jason-cramer-in
