@@ -11,10 +11,8 @@ I'm a Computer Engineer with a focus on embedded systems and firmware developmen
 - Languages: C, C++, Python, MATLAB, Verilog 
 - Tools: VSCode, Vivado, Vitis
 
-## 🚀 Projects
-- **[Project Name]** – [1 sentence describing what it does + tech used]  
-- **[Project Name]** – [1 sentence describing what it does + tech used]  
-- **[Project Name]** – [1 sentence describing what it does + tech used]  
+## 🚀 Upcoming Projects
+- FPGA UART communication: Will create custom UART communication using Basys 3 and the Vivado development software in Verilog
 
 ## 🌱 Currently
 - Seeking opportunities in embedded systems and firmware engineering  
