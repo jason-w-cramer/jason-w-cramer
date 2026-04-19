@@ -12,7 +12,7 @@ I'm a Computer Engineer with a focus on embedded systems and firmware developmen
 - Tools: VSCode, Vivado, Vitis
 
 ## 🚀 Upcoming Projects
-- FPGA UART communication: Will create custom UART communication using Basys 3 and the Vivado development software in Verilog
+- FPGA UART communication: See progress [here](/jason-w-cramer/Basys3UART)
 
 ## 🌱 Currently
 - Seeking opportunities in embedded systems and firmware engineering  
