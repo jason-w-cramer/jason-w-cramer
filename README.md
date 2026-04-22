@@ -8,7 +8,7 @@ I'm a Computer Engineer with a focus on embedded systems and firmware developmen
 - Motor control systems  
 
 ## 🛠️ Skills
-- Languages: C, C++, Python, MATLAB, Verilog 
+- Languages: C, C++, Python, MATLAB, SystemVerilog 
 - Tools: VSCode, Vivado, Vitis
 
 ## 🚀 Upcoming Projects
