@@ -11,8 +11,8 @@ I'm a Computer Engineer with a focus on embedded systems and firmware developmen
 - Languages: C, C++, Python, MATLAB, SystemVerilog 
 - Tools: VSCode, Vivado, Vitis
 
-## 🚀 Upcoming Projects
-- FPGA UART communication: See progress [here](https://github.com/jason-w-cramer/Basys3UART.git)
+## 🚀 Finished Projects
+- FPGA UART communication: [here](https://github.com/jason-w-cramer/Basys3UART.git)
 
 ## 🌱 Currently
 - Seeking opportunities in embedded systems and firmware engineering  
