@@ -13,6 +13,7 @@ I'm a Computer Engineer with a focus on embedded systems and firmware developmen
 
 ## 🚀 Finished Projects
 - FPGA UART communication: [here](https://github.com/jason-w-cramer/Basys3UART.git)
+- MPU6050 driver: [here](https://github.com/jason-w-cramer/mpu6050.git)
 
 ## 🌱 Currently
 - Seeking opportunities in embedded systems and firmware engineering  
